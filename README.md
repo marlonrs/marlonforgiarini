@@ -2,7 +2,7 @@
 
 <h1>
     <a href="https://elidianaandrade.github.io/">
-     <img align="center" alt="Logo Elidiana Andrade" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
+     <img align="center" alt="Logo Elidiana Andrad" width="36px" src="https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png"></a>
     <span>Elidiana Andrade</span>
 </h1>
 
